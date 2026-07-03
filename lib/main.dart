@@ -21,7 +21,7 @@ class MortalKombat extends StatelessWidget {
           fontFamily: "Nunito",
           useMaterial3: false,
         ),
-        debugShowCheckedModeBanner: false,
+        debugShowCheckedModeBanner: true,
         initialRoute: AppRoute.homeScreen,
         onGenerateRoute: AppRoute.generateRoute);
   }
