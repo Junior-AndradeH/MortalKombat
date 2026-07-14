@@ -18,7 +18,7 @@ class MortalKombat extends StatelessWidget {
     return MaterialApp(
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.grey),
-          fontFamily: "Nunito",
+          fontFamily: "Aclonica",
           useMaterial3: false,
         ),
         debugShowCheckedModeBanner: true,
